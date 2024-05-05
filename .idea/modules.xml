@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Course/AIOGRAM2 TH CO/.idea/AIOGRAM2 TH CO.iml" filepath="$PROJECT_DIR$/../Course/AIOGRAM2 TH CO/.idea/AIOGRAM2 TH CO.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Project_Knifer.iml" filepath="$PROJECT_DIR$/.idea/Project_Knifer.iml" />
     </modules>
   </component>
