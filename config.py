@@ -1,3 +1,3 @@
-bot_token = "7011080584:AAGS4InERhji74n4HyRNG2EeRyOpASB30UI"
-admin_id = "806197297"
-chat_id = "806197297"
+bot_token = "****"
+admin_id = "****"
+chat_id = "****"
